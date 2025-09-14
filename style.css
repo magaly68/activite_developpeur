@@ -46,7 +46,7 @@ nav {
   font-size: 1.5rem;
   font-weight: bold;
   color: white;
-  background: var (--gradient);
+  background: linear-gradient(90deg, #ff8a00, #e52e71, #9b00ff, #00c6ff);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
