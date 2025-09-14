@@ -209,7 +209,8 @@ nav {
 
 .portfolio-item img {
   width: 100%;
-  height: 250px;
+  height: auto;
+  border-radius: 0.5rem;
   object-fit: cover;
 }
 
