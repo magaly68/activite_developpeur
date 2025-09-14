@@ -260,7 +260,7 @@ nav {
    FOOTER
 ------------------------------ */
 footer {
-  background: var(--dark);
+  background: var(--gradient);
   color: white;
   text-align: center;
   padding: 2rem;
